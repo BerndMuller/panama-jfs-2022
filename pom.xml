@@ -14,6 +14,7 @@
 	<modules>
 		<module>panama-17</module>
 		<module>panama-18</module>
+		<module>panama-19</module>
 	</modules>
 
 </project>
